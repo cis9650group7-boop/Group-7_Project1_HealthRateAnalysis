@@ -4,20 +4,22 @@
 ### Date: November 28th, 2025
 
 
-### Project Link:
+### Project Link
 https://github.com/cis9650group7-boop/Group-7_Project1_HealthRateAnalysis
+
 Include:
 1. term_project_group7.ipynb
 2. Readme_group7_project1.md
 3. CIS 9650 - Meetings Notes - Group 7.docx
 
 
-### Dataset:
+### Dataset
 https://storage.googleapis.com/msba-online-data/CIS9650/Project%2001/healthrate.ratemd.ny.csv
 
 
-### How to run:
+### How to run
 This project can be executed either on Google Colab or on a local machine.
+
 Option 1 - Run on Google Colab
 1. Open term_project_group7.ipynb in Google Colab.
 2. Run all cells in order. The notebook will load the dataset from Google Cloud Storage. No additional setup is required.
@@ -42,9 +44,13 @@ This project uses the healthrate.ratemd.ny.csv dataset to load doctor ratings an
 5. Data Loading
 6. Data Preparation
 7. Modeling and Analysis
+   
    Analysis 1: Specialty-Level Rating Variation and Insights from Patient Feedback
+   
    Analysis 2: Correlation between Helpfulness and Overall Rating
+   
    Analysis 3: Relative Impact of Sub Ratings on Overall Doctor Rating
+   
    Analysis 4: Location Ratings and Facility Impact on Patient Satisfaction
 9. Conclusion
 10. References
