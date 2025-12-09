@@ -26,10 +26,13 @@ Option 1 - Run on Google Colab
 
 Option 2 - Run Locally
 1. Download the following files and place them in the same directory on your computer:
+   
    term_project_group7.ipynb
+   
    healthrate.ratemd.ny.csv
-2. Open term_project_group7.ipynb in Jupyter Notebook
-3. Run all cells in order. The notebook will first attempt to load the dataset from Google Cloud Storage. If the cloud dataset cannot be accessed, the notebook will automatically use the local dataset instead.
+   
+3. Open term_project_group7.ipynb in Jupyter Notebook
+4. Run all cells in order. The notebook will first attempt to load the dataset from Google Cloud Storage. If the cloud dataset cannot be accessed, the notebook will automatically use the local dataset instead.
 
 
 ### Project Overview
