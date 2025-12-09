@@ -10,7 +10,7 @@ https://github.com/cis9650group7-boop/Group-7_Project1_HealthRateAnalysis
 Include:
 1. term_project_group7.ipynb
 2. Readme_group7_project1.md
-3. CIS 9650 - Meetings Notes - Group 7.docx
+3. CIS 9650 - Meetings Notes - Group 7.pdf
 
 
 ### Dataset
